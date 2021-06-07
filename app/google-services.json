@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "700666680657",
+    "firebase_url": "https://simownerdetail-default-rtdb.firebaseio.com",
+    "project_id": "simownerdetail",
+    "storage_bucket": "simownerdetail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700666680657:android:7db5cc3a4a521b65d86f70",
+        "android_client_info": {
+          "package_name": "com.AdanITCenter.AdanVPN"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700666680657-8eq0mrkncoqnf89momk3ch5chbej12sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAiuSFv7a1zJvOvSyiIJZ4PQ2easm3nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700666680657-8eq0mrkncoqnf89momk3ch5chbej12sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700666680657:android:88cf7914f6990452d86f70",
+        "android_client_info": {
+          "package_name": "pak.e.sahulat.services.paksimdata.simownerinfo.pakistan.SimOwnerDetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700666680657-6sjubsfjd426gdgohcpn74qgpv5jng75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pak.e.sahulat.services.paksimdata.simownerinfo.pakistan.SimOwnerDetails",
+            "certificate_hash": "a49e4c66ab66c007dd74b7b3e346b68896d168db"
+          }
+        },
+        {
+          "client_id": "700666680657-8eq0mrkncoqnf89momk3ch5chbej12sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAiuSFv7a1zJvOvSyiIJZ4PQ2easm3nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700666680657-8eq0mrkncoqnf89momk3ch5chbej12sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700666680657:android:c7f081d7d8071fecd86f70",
+        "android_client_info": {
+          "package_name": "pak.e.services.pakdata.paksim.simownerinfo.pakistan.SimOwnerDetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700666680657-vog8k5rrjptrqclqadjtpmhqvaivoi52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pak.e.services.pakdata.paksim.simownerinfo.pakistan.SimOwnerDetails",
+            "certificate_hash": "a49e4c66ab66c007dd74b7b3e346b68896d168db"
+          }
+        },
+        {
+          "client_id": "700666680657-8eq0mrkncoqnf89momk3ch5chbej12sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAiuSFv7a1zJvOvSyiIJZ4PQ2easm3nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700666680657-8eq0mrkncoqnf89momk3ch5chbej12sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700666680657:android:6f1df69f9ccd3846d86f70",
+        "android_client_info": {
+          "package_name": "pak.e.services.registration.simcheck.simowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700666680657-a5teuep7hb9s26q227co7njn70p50046.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pak.e.services.registration.simcheck.simowner",
+            "certificate_hash": "a49e4c66ab66c007dd74b7b3e346b68896d168db"
+          }
+        },
+        {
+          "client_id": "700666680657-8eq0mrkncoqnf89momk3ch5chbej12sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAiuSFv7a1zJvOvSyiIJZ4PQ2easm3nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700666680657-8eq0mrkncoqnf89momk3ch5chbej12sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

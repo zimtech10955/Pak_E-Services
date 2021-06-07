@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DrivingActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+
+        android:layout_marginRight="30dp"
+        android:background="@drawable/buttons_activity_bg"
+        android:gravity="center"
+
+        android:orientation="vertical"
+
+        android:padding="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+
+            android:id="@+id/btn31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/ripplebg"
+            android:text="Sindh License Verification"
+            android:textColor="@color/white"
+            android:textSize="18sp"></Button>
+
+        <Button
+            android:id="@+id/btn32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ripplebg"
+            android:text="KPK License Verification"
+            android:textColor="@color/white"
+            android:textSize="18sp"></Button>
+
+        <Button
+            android:id="@+id/btn33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ripplebg"
+            android:text="NHA License Verification"
+            android:textColor="@color/white"
+            android:textSize="18sp"></Button>
+
+        <Button
+            android:id="@+id/btn34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="80dp"
+            android:background="@drawable/ripplebg"
+            android:text="Quetta License Verification"
+            android:textColor="@color/white"
+            android:textSize="18sp"></Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/banner_container"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
